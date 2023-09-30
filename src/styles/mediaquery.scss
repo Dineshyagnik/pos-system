@@ -1,0 +1,57 @@
+@import 'colors';
+
+@media screen and (max-width: 991px) {
+
+    .main-container {
+        flex-direction: column;
+        width: 100%;
+
+        >.left-panel {
+            width: 100%;
+
+            >.product-added {
+                width: 100%;
+                height: 400px;
+                margin-top: 10px;
+                overflow-y: scroll;
+            }
+
+            >.pricing-table {
+                width: 90%;
+            }
+        }
+
+        >.right-panel {
+            width: 100%;
+
+            >.product-list {
+                width: 100%;
+                height: 300px;
+
+                >.overlay {
+                    width: calc(100% - 4rem);
+                    height: 300px;
+                }
+
+                >img {
+                    width: 100%;
+                    height: 100%;
+                }
+
+                >h6 {
+                    font-size: $font-size2;
+                    position: absolute;
+                    color: #000;
+                    z-index: 100;
+                    width: 100%;
+                }
+            }
+        }
+
+    }
+
+    .modal {
+        left: 40px;
+        top: 20%;
+    }
+}

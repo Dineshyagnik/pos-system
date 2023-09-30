@@ -1,0 +1,162 @@
+[
+    {
+        "id": "01",
+        "name": "Refrigerator",
+        "price": "12000",
+        "category": "Home Appliances",
+        "description": "Hisense 236 L Frost Free Double Door 2 Star Refrigerator",
+        "image": "../assets/images/product1.jpg"
+    },
+    {
+        "id": "02",
+        "name": "Painting",
+        "price": "1200",
+        "category": "Art Works",
+        "description": "Painting is defined as the process of applying paint",
+        "image": "../assets/images/product2.jpg"
+    },
+    {
+        "id": "03",
+        "name": "Flowers",
+        "price": "900",
+        "category": "Pots",
+        "description": "To create a visually pleasing display",
+        "image": "../assets/images/product3.jpg"
+    },
+    {
+        "id": "04",
+        "name": "Light Bulb",
+        "price": "1000",
+        "category": "Light",
+        "description": "Buy Fancy Lighting Bulbs Online: CFL Bulbs and LED Bulbs are the new trends",
+        "image": "../assets/images/product4.jpg"
+    },
+    {
+        "id": "05",
+        "name": "Colorful Bulb",
+        "price": "1300",
+        "category": "Light",
+        "description": "Buy Fancy Lighting Bulbs Online: CFL Bulbs and LED Bulbs are the new trends ",
+        "image": "../assets/images/product5.jpg"
+    },
+    {
+        "id": "06",
+        "name": "AXL Laptop",
+        "price": "34000",
+        "category": "Computer",
+        "description": "An electronic device that manipulates information, or data.",
+        "image": "../assets/images/product6.jpg"
+    },
+    {
+        "id": "07",
+        "name": "Lenovo Laptop",
+        "price": "38000",
+        "category": "Computer",
+        "description": "An electronic device that manipulates information, or data.",
+        "image": "../assets/images/product7.jpg"
+    },
+    {
+        "id": "08",
+        "name": "Sound Box",
+        "price": "6000",
+        "category": "Sound",
+        "description": "Zebronics ZEB-COUNTY 3W Wireless Bluetooth Portable Speaker With Supporting",
+        "image": "../assets/images/product8.jpg"
+    },
+    {
+        "id": "09",
+        "name": "Syntronic Sound",
+        "price": "5000",
+        "category": "Sound Box",
+        "description": "Syntronic ZEB-COUNTY 3W Wireless Bluetooth Portable Speaker",
+        "image": "../assets/images/product9.jpg"
+    },
+    {
+        "id": "10",
+        "name": "Sweater",
+        "price": "999",
+        "category": "Clothes",
+        "description": " Long-sleeved upper garments, often worn over a t-shirt or under a coat.",
+        "image": "../assets/images/product10.jpg"
+    },
+    {
+        "id": "11",
+        "name": "Sweater",
+        "price": "799",
+        "category": "Clothes",
+        "description": " Sweater with color yellow .Long-sleeved upper garments, often worn over a t-shirt or under a coat.",
+        "image": "../assets/images/product11.jpg"
+    },
+    {
+        "id": "12",
+        "name": "Watch",
+        "price": "890",
+        "category": "Watch",
+        "description": "Day&Date Series Analog Watch - For Boys HM-3172",
+        "image": "../assets/images/product12.jpg"
+    },
+    {
+        "id": "13",
+        "name": "Digital Watch",
+        "price": "1290",
+        "category": "Watch",
+        "description": "Best Digital watch .Day&Date Series Analog Watch - For Boys HM-3172",
+        "image": "../assets/images/product13.jpg"
+    },
+    {
+        "id": "14",
+        "name": "Towel",
+        "price": "390",
+        "category": "Clothes",
+        "description": "Anko Cotton 550 GSM Malmo 100% Cotton- Grey, 135 x 68 cm Bath Towel",
+        "image": "../assets/images/product14.jpg"
+    },
+    {
+        "id": "15",
+        "name": "Combo-Towel",
+        "price": "1390",
+        "category": "Clothes",
+        "description": "Anko Cotton 550 GSM Malmo 100% Cotton- Grey, 135 x 68 cm Bath Towel",
+        "image": "../assets/images/product15.jpg"
+    },
+    {
+        "id": "16",
+        "name": "Women Jeans",
+        "price": "750",
+        "category": "Clothes",
+        "description": "Women Regular Mid Rise Black Jeans",
+        "image": "../assets/images/product16.jpg"
+    },
+    {
+        "id": "17",
+        "name": "Men Jeans",
+        "price": "550",
+        "category": "Clothes",
+        "description": "Men Regular Mid Rise Black Jeans",
+        "image": "../assets/images/product17.jpg"
+    },
+    {
+        "id": "18",
+        "name": "Lava",
+        "price": "14000",
+        "category": "Phone",
+        "description": "Best Galaxy Phone",
+        "image": "../assets/images/product18.jpg"
+    },
+    {
+        "id": "19",
+        "name": "I-phone 13",
+        "price": "44000",
+        "category": "Phone",
+        "description": "APPLE iPhone 13 (Starlight, 128 GB)",
+        "image": "../assets/images/product19.jpg"
+    },
+    {
+        "id": "20",
+        "name": "Jacket",
+        "price": "800",
+        "category": "Clothes",
+        "description": "Best winter session clothes",
+        "image": "../assets/images/product20.jpg"
+    }
+]
